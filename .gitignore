@@ -1,0 +1,9 @@
+# Sesion de WhatsApp (nunca subir)
+perfil_chrome/
+# Datos personales y archivos generados
+fotos/
+diagnostico/
+codigo_salida/
+procesadas.txt
+estado.txt
+__pycache__/

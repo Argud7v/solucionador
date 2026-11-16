@@ -1,0 +1,5 @@
+# Horario del solucionador (formato: dia HH:MM-HH:MM)
+# Dias: lunes martes miercoles jueves viernes sabado domingo
+# Una linea por intervalo. Las lineas con # se ignoran.
+lunes 15:00-17:00
+martes 11:00-13:00
